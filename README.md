@@ -1,2 +1,2 @@
 # matrix-staggering
-matrix staggering methods
+matrix decomposition methods
